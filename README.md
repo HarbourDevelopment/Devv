@@ -10,6 +10,6 @@
    Apart from storage, the locker provides rapid protyping utilising exising generators for popular frameworks personalised to suit my workflow.
 </p>
 <p align="center">
-Don’t expect to find code quality here… This a “Free Fire Idea Zone” where I can throw stuff at the wall and see what sticks. **Stick that up your dojo!**
+Don’t expect to find code quality here… This a “Free Fire Idea Zone” where I can throw stuff at the wall and see what sticks. <strong>Stick that up your dojo!</strong>
   </p>
 </div>
